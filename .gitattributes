@@ -1,2 +1,22 @@
-# Force LF line endings, needed for Docker to work on Windows
-*.sh text eol=lf
+# Force LF line endings for all text files (needed for Docker to work on Windows)
+* text=auto eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.pdf binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.mp3 binary
+*.mp4 binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
+*.parquet binary
+*.duckdb binary

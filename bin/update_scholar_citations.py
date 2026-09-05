@@ -42,6 +42,7 @@ def get_scholar_citations() -> None:
     today = datetime.now().strftime("%Y-%m-%d")
 
     # Check if the output file was already updated today
+    existing_data = None
     if os.path.exists(OUTPUT_FILE):
         try:
             with open(OUTPUT_FILE, "r") as f:
@@ -114,7 +115,8 @@ def get_scholar_citations() -> None:
         return
 
     try:
-        with open(OUTPUT_FILE, "w") as f:
+        with open(OUTPUT_FILE, "w", newline="
+") as f:
             yaml.dump(citation_data, f, width=1000, sort_keys=True)
         print(f"Citation data saved to {OUTPUT_FILE}")
     except Exception as e:
