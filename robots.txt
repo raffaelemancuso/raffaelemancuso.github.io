@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://raffaelemancuso.github.io/sitemap.xml
+Sitemap: https://raffaelemancuso.com/sitemap.xml
