@@ -1,0 +1,58 @@
+# Curriculum vitae rendered by the al_folio_cv plugin on /cv/ (see docs/CUSTOMIZE.md).
+# Section names with a dedicated template: Experience, Education, Publications, Skills, Languages, Certificates,
+# Projects, Open Source Projects, Honors and Awards, Academic Interests, References. Publications, projects, teaching
+# and talks are deliberately left out here because they have their own pages on the site.
+# Any other section renders its entries as bullets (`bullet:`) or one-liners (`label:` + `details:`).
+# Text fields support Markdown. Dates are strings (YYYY, YYYY-MM or YYYY-MM-DD); only the year is displayed.
+cv:
+  name: Raffaele Mancuso
+  label: Junior Assistant Professor (RTDa), Department of Management, University of Bologna
+  email: raffaele.mancuso4@unibo.it
+  website: https://www.raffaelemancuso.com
+  address:
+    city: Bologna
+    region: Italy
+
+  sections:
+    Experience:
+      - company: University of Bologna, Department of Management
+        position: Junior Assistant Professor (RTDa)
+        location: Bologna, Italy
+        start_date: "2023-03-02"
+        end_date: "2026-03-01"
+
+      - company: Polytechnic University of Milan
+        position: Post-doctoral Researcher (Assegnista di Ricerca)
+        location: Milan, Italy
+        start_date: "2022-02-01"
+        end_date: "2023-02-24"
+
+      - company: PwC Italy
+        position: Business Analyst
+        location: Milan, Italy
+        start_date: "2018-03-22"
+        end_date: "2018-09-18"
+
+    Education:
+      - institution: Polytechnic University of Milan
+        location: Milan, Italy
+        degree: PhD in Management Engineering
+        start_date: "2018-11-03"
+        end_date: "2022-10-03"
+
+      - institution: Polytechnic University of Milan
+        location: Milan, Italy
+        degree: MSc in Management Engineering
+        start_date: "2015-03"
+        end_date: "2017-12"
+
+      - institution: Polytechnic University of Milan
+        location: Milan, Italy
+        degree: BSc in Electronics Engineering
+        start_date: "2010-10"
+        end_date: "2014-02"
+
+    Certificates:
+      - name: TOEFL (Test of English as a Foreign Language), grade 5/6, 100/120 (CEFR level C1)
+        issuer: Educational Testing Service (ETS)
+        date: "2026-06"

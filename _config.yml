@@ -72,7 +72,7 @@ al_folio:
     allow_remote_loader: false
   features:
     cv:
-      enabled: false
+      enabled: true
     distill:
       enabled: true
   compat:
@@ -191,7 +191,11 @@ newsletter:
 collections:
   projects:
     output: true
+  software:
+    output: true
     permalink: /software/:path/
+  teachings:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
