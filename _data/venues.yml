@@ -1,9 +1,4 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+# venue abbreviations used in the `abbr` field of _bibliography/papers.bib
+# each entry can have a `url` (the badge becomes a link) and an optional `color`
+"RP":
+  url: https://www.sciencedirect.com/journal/research-policy

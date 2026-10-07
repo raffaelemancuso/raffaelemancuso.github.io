@@ -1,0 +1,134 @@
+# Conference presentations shown on /talks/ (rendered by _pages/talks.md), grouped by year.
+# abbr: short badge text; name: conference name (linked to url); venue (optional), city and dates: one line each;
+# contributions: what I did there, one item each.
+- year: 2026
+  abbr: AOM
+  name: 86th Annual Meeting of the Academy of Management
+  url: https://www.aom.org/events/annual-meeting/
+  city: Philadelphia, PA, USA
+  dates: 31 July - 4 August 2026
+  contributions:
+    - Presented paper "The Effects of European Circular Economy Regional Specialization Strategies"
+
+- year: 2026
+  abbr: WOEPSR
+  name: Workshop on the Organization, Economics, and Policy of Scientific Research
+  url: https://www.dig.polimi.it/en/public-events/19th-workshop-on-the-organisation-economics-and-policy-of-scientific-research-
+  venue: Polytechnic University of Milan
+  city: Milan, Italy
+  dates: 24-25 March 2026
+  contributions:
+    - Presented paper "Does the adoption of Artificial Intelligence shape the outcomes of grant-financed scientific projects?"
+
+- year: 2025
+  abbr: REGINNPOL
+  name: Regional Innovation Policies Conference
+  url: https://www.unive.it/reginnpol2025
+  venue: Venice School of Management
+  city: Venice, Italy
+  dates: 23-24 October 2025
+  contributions:
+    - Presented paper "Circular Economy and Smart Specialization Strategies (S3) in European Regions"
+
+- year: 2024
+  abbr: AiIG
+  name: Annual Scientific Meeting of the Italian Association of Management Engineering
+  url: https://www.ingegneriagestionale.it/rsa/2024/
+  venue: University of Palermo
+  city: Palermo, Italy
+  dates: 10-11 October 2024
+  contributions:
+    - Presented paper "How does AI shape the productivity of science?"
+
+- year: 2024
+  abbr: AISRe
+  name: Annual Scientific Conference of the Associazione Italiana di Scienze Regionali
+  url: https://www.aisre.it/en/xlv-conferenza-scientifica-annuale-2024-torino-en/
+  venue: University of Turin
+  city: Turin, Italy
+  dates: 4-6 September 2024
+  contributions:
+    - Presented paper "How circular economy policies spur the entry of new startups?"
+
+- year: 2024
+  abbr: OIS
+  name: Open Innovation in Science Research Conference
+  url: https://ois-research-conference.org/ois-research-conference-2024/
+  venue: The Shard
+  city: London, United Kingdom
+  dates: 21-23 May 2024
+  contributions:
+    - Presented paper "How does AI shape the productivity of science?"
+
+- year: 2023
+  abbr: DRUID
+  name: DRUID Conference, Danish Research Unit on Industrial Dynamics
+  url: https://conference.druid.dk/Druid/?confId=66
+  venue: NOVA School of Business and Economics
+  city: Carcavelos, Portugal
+  dates: 10-12 June 2023
+  contributions:
+    - 'Presented paper "The quest for a room: Working from Home, the Home Space and the Gender Gap in Academic Productivity"'
+    - Presented paper "Do Mission-Oriented Grant Calls Shape the Direction of Science?"
+    - Discussant for the session "AI and performance"
+
+- year: 2023
+  abbr: WOEPSR
+  name: Workshop on the Organization, Economics and Policy of Scientific Research
+  url: https://www.ip.mpg.de/en/research/innovation-and-entrepreneurship-research/woepsr2023.html
+  venue: Max Planck Institute for Innovation and Competition
+  city: Munich, Germany
+  dates: 13-14 April 2023
+  contributions:
+    - Presented paper "Do Mission-Oriented Grant Calls Shape the Direction of Science?"
+
+- year: 2022
+  abbr: DRUID
+  name: DRUID Conference, Danish Research Unit on Industrial Dynamics
+  url: https://conference.druid.dk/Druid/?confId=64
+  venue: Copenhagen Business School
+  city: Copenhagen, Denmark
+  dates: 13-15 June 2022
+  contributions:
+    - Presented paper "Does working from home during Covid-19 improve academic productivity? The role of gender, space, and household duties"
+
+- year: 2022
+  abbr: WOEPSR
+  name: Workshop on the Organization, Economics, and Policy of Scientific Research
+  url: https://feb.kuleuven.be/research/MSI/WOEPSR2022
+  venue: KU Leuven
+  city: Leuven, Belgium
+  dates: 7-8 April 2022
+  contributions:
+    - Presented paper "Topic choice and the underfunding of female scholars in mission-oriented research"
+
+- year: 2021
+  abbr: DRUID
+  name: DRUID Conference, Danish Research Unit on Industrial Dynamics
+  url: https://conference.druid.dk/Druid/?confId=62
+  venue: Copenhagen Business School
+  city: Copenhagen, Denmark
+  dates: 18-20 October 2021
+  contributions:
+    - Presented paper "Topic choice and the under-funding of female scholars in mission-oriented research"
+    - 'Chaired the session "Ecosystems: Innovation systems"'
+
+- year: 2020
+  abbr: APPAM
+  name: APPAM Fall Research Conference, Association for Public Policy Analysis and Management
+  url: https://www.appam.org/fall-conference/
+  city: Online
+  dates: 11-13 November 2020
+  contributions:
+    - Presented paper "Research Funding, Gendered Language and the Willingness to Lean-in of Female Scientists"
+
+- year: 2019
+  abbr: AiIG
+  name: Annual Scientific Meeting of the Associazione Italiana di Ingegneria Gestionale
+  url: http://www.convegnoaiig.it/2019/
+  venue: Centro Congressi "Torino Incontra"
+  city: Turin, Italy
+  dates: 17-18 October 2019
+  contributions:
+    - Presented paper "The consequences of gender stereotypes on women operating in business contexts"
+    - Discussant for the paper "Walking with different shoes. An experimental study on organizational context variety in a Multiple Team Membership environment"
