@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://www.unibo.it/sitoweb/raffaele.mancuso4/en">Junior Assistant Professor</a>, Department of Management, <a href="https://www.unibo.it/en/homepage">Alma Mater Studiorum – Università di Bologna</a>.
+  Visiting Researcher, Department of Management, <a href="https://www.unibo.it/en/homepage">Alma Mater Studiorum – Università di Bologna</a>.
 
 profile:
   align: right
@@ -19,7 +19,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a [Junior Assistant Professor](https://www.unibo.it/sitoweb/raffaele.mancuso4/en) in the [Circular Innovation Ecosystems](https://site.unibo.it/circularinnovationecosystems) research group within the Department of Management of [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it/en/homepage).
+I'm a Visiting Researcher at the Department of Management of [Alma Mater Studiorum – Università di Bologna](https://www.unibo.it/en/homepage), where I was a Junior Assistant Professor (2023–2026) in the [Circular Innovation Ecosystems](https://site.unibo.it/circularinnovationecosystems) research group.
 
 Previously I held a Postdoc position at [Politecnico di Milano](https://www.polimi.it/en) in the [Entrepreneurship, Finance, and Innovation](https://www.efi.polimi.it/) research group.
 

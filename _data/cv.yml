@@ -6,7 +6,7 @@
 # Text fields support Markdown. Dates are strings (YYYY, YYYY-MM or YYYY-MM-DD); only the year is displayed.
 cv:
   name: Raffaele Mancuso
-  label: Junior Assistant Professor (RTDa), Department of Management, University of Bologna
+  label: Visiting Researcher, Department of Management, University of Bologna
   email: raffaele.mancuso4@unibo.it
   website: https://raffaelemancuso.github.io
   address:
@@ -15,6 +15,12 @@ cv:
 
   sections:
     Experience:
+      - company: University of Bologna, Department of Management
+        position: Visiting Researcher
+        location: Bologna, Italy
+        start_date: "2026-03-02"
+        end_date: present
+
       - company: University of Bologna, Department of Management
         position: Junior Assistant Professor (RTDa)
         location: Bologna, Italy
